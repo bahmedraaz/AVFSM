@@ -1,0 +1,65 @@
+Transition 010 ---> 001; Inject Fault to go 000; 
+Successful Fault Injection Condition: 
+ Time constraint Violated: Path 0; 
+Time constraint OK: Path 1; 
+Time constraint Dont Care: Path 2; 
+Path Difference:  -4.000000e-03; 
+susceptiblity_factor:  -7.142857e-03; 
+ 
+ Transition 100 ---> 001; Inject Fault to go 000; 
+Successful Fault Injection Condition: 
+ Time constraint Violated: Path 0; 
+Time constraint OK: Path 2; 
+Time constraint Dont Care: Path 1; 
+Path Difference:  -3.400000e-02; 
+susceptiblity_factor:  -6.071429e-02; 
+ 
+ Transition 100 ---> 001; Inject Fault to go 101; 
+Successful Fault Injection Condition: 
+ Time constraint Violated: Path 2; 
+Time constraint OK: Path 0; 
+Time constraint Dont Care: Path 1; 
+Path Difference:  1.460000e-01; 
+susceptiblity_factor:  2.607143e-01; 
+ 
+ Transition 001 ---> 010; Inject Fault to go 000; 
+Successful Fault Injection Condition: 
+ Time constraint Violated: Path 1; 
+Time constraint OK: Path 0; 
+Time constraint Dont Care: Path 2; 
+Path Difference:  1.160000e-01; 
+susceptiblity_factor:  2.071429e-01; 
+ 
+ Transition 011 ---> 100; Inject Fault to go 000; 
+Successful Fault Injection Condition: 
+ Time constraint Violated: Path 2; 
+Time constraint OK: Path 1  0; 
+Time constraint Dont Care: Path ; 
+Path Difference:  1.460000e-01; 
+susceptiblity_factor:  2.607143e-01; 
+ 
+ Transition 011 ---> 100; Inject Fault to go 101; 
+Successful Fault Injection Condition: 
+ Time constraint Violated: Path 0; 
+Time constraint OK: Path 2  1; 
+Time constraint Dont Care: Path ; 
+Path Difference:  -4.000000e-03; 
+susceptiblity_factor:  -7.142857e-03; 
+ 
+ Transition 011 ---> 100; Inject Fault to go 110; 
+Successful Fault Injection Condition: 
+ Time constraint Violated: Path 1; 
+Time constraint OK: Path 2  0; 
+Time constraint Dont Care: Path ; 
+Path Difference:  1.160000e-01; 
+susceptiblity_factor:  2.071429e-01; 
+ 
+ Transition 011 ---> 100; Inject Fault to go 111; 
+Successful Fault Injection Condition: 
+ Time constraint Violated: Path 1  0; 
+Time constraint OK: Path 2; 
+Time constraint Dont Care: Path ; 
+Path Difference:  -3.400000e-02; 
+susceptiblity_factor:  -6.071429e-02; 
+ 
+ 

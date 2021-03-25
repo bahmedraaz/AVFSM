@@ -1,0 +1,8 @@
+assign FSM[2] = state_present[2]; 
+ assign FSM[1] = state_present[1]; 
+ assign FSM[0] = state_present[0]; 
+ assign round_index[1] = extra_FF[0]; 
+ assign round_index[2] = extra_FF[1]; 
+ assign round_index[3] = extra_FF[2]; 
+ assign round_index[0] = extra_FF[3]; 
+ 

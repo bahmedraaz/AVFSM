@@ -1,0 +1,300 @@
+ Pattern 0 (basic_scan)
+ Time 0: force_all_pis =   0100110111 011
+ Time 1: measure_all_pos = 0000
+ Pattern 1 (basic_scan)
+ Time 0: force_all_pis =   0100111011 111
+ Time 1: measure_all_pos = 0000
+ Pattern 2 (basic_scan)
+ Time 0: force_all_pis =   0100110010 111
+ Time 1: measure_all_pos = 0000
+ Pattern 3 (basic_scan)
+ Time 0: force_all_pis =   0100110110 011
+ Time 1: measure_all_pos = 0000
+ Pattern 4 (basic_scan)
+ Time 0: force_all_pis =   0100110100 011
+ Time 1: measure_all_pos = 0000
+ Pattern 5 (basic_scan)
+ Time 0: force_all_pis =   0100111010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 6 (basic_scan)
+ Time 0: force_all_pis =   0100110010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 7 (basic_scan)
+ Time 0: force_all_pis =   0100111001 011
+ Time 1: measure_all_pos = 0000
+ Pattern 8 (basic_scan)
+ Time 0: force_all_pis =   0100111011 111
+ Time 1: measure_all_pos = 0000
+ Pattern 9 (basic_scan)
+ Time 0: force_all_pis =   0100110101 111
+ Time 1: measure_all_pos = 0000
+ Pattern 10 (basic_scan)
+ Time 0: force_all_pis =   0100111010 111
+ Time 1: measure_all_pos = 0000
+ Pattern 11 (basic_scan)
+ Time 0: force_all_pis =   0100111010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 12 (basic_scan)
+ Time 0: force_all_pis =   0100110010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 13 (basic_scan)
+ Time 0: force_all_pis =   0100110001 011
+ Time 1: measure_all_pos = 0000
+ Pattern 14 (basic_scan)
+ Time 0: force_all_pis =   0100110111 111
+ Time 1: measure_all_pos = 0000
+ Pattern 15 (basic_scan)
+ Time 0: force_all_pis =   0100110011 111
+ Time 1: measure_all_pos = 0000
+ Pattern 16 (basic_scan)
+ Time 0: force_all_pis =   0100110110 111
+ Time 1: measure_all_pos = 0000
+ Pattern 17 (basic_scan)
+ Time 0: force_all_pis =   0100111100 011
+ Time 1: measure_all_pos = 0000
+ Pattern 18 (basic_scan)
+ Time 0: force_all_pis =   0100111110 011
+ Time 1: measure_all_pos = 0000
+ Pattern 19 (basic_scan)
+ Time 0: force_all_pis =   0100110111 011
+ Time 1: measure_all_pos = 0000
+ Pattern 20 (basic_scan)
+ Time 0: force_all_pis =   0100111011 111
+ Time 1: measure_all_pos = 0000
+ Pattern 21 (basic_scan)
+ Time 0: force_all_pis =   0100110101 111
+ Time 1: measure_all_pos = 0000
+ Pattern 22 (basic_scan)
+ Time 0: force_all_pis =   0100111101 111
+ Time 1: measure_all_pos = 0000
+ Pattern 23 (basic_scan)
+ Time 0: force_all_pis =   0100110001 111
+ Time 1: measure_all_pos = 0000
+ Pattern 24 (basic_scan)
+ Time 0: force_all_pis =   0100110111 111
+ Time 1: measure_all_pos = 0000
+ Pattern 25 (basic_scan)
+ Time 0: force_all_pis =   0100111011 111
+ Time 1: measure_all_pos = 0000
+ Pattern 26 (basic_scan)
+ Time 0: force_all_pis =   0100111010 111
+ Time 1: measure_all_pos = 0000
+ Pattern 27 (basic_scan)
+ Time 0: force_all_pis =   0100110101 011
+ Time 1: measure_all_pos = 0000
+ Pattern 28 (basic_scan)
+ Time 0: force_all_pis =   0100110101 111
+ Time 1: measure_all_pos = 0000
+ Pattern 29 (basic_scan)
+ Time 0: force_all_pis =   0100111010 111
+ Time 1: measure_all_pos = 0000
+ Pattern 30 (basic_scan)
+ Time 0: force_all_pis =   0100111101 011
+ Time 1: measure_all_pos = 0000
+ Pattern 31 (basic_scan)
+ Time 0: force_all_pis =   0100111110 111
+ Time 1: measure_all_pos = 0000
+ Pattern 32 (basic_scan)
+ Time 0: force_all_pis =   0100110001 011
+ Time 1: measure_all_pos = 0000
+ Pattern 33 (basic_scan)
+ Time 0: force_all_pis =   0100110000 111
+ Time 1: measure_all_pos = 0000
+ Pattern 34 (basic_scan)
+ Time 0: force_all_pis =   0100111001 011
+ Time 1: measure_all_pos = 0000
+ Pattern 35 (basic_scan)
+ Time 0: force_all_pis =   0100110101 111
+ Time 1: measure_all_pos = 0000
+ Pattern 36 (basic_scan)
+ Time 0: force_all_pis =   0100110011 111
+ Time 1: measure_all_pos = 0000
+ Pattern 37 (basic_scan)
+ Time 0: force_all_pis =   0100111001 111
+ Time 1: measure_all_pos = 0000
+ Pattern 38 (basic_scan)
+ Time 0: force_all_pis =   0100111101 111
+ Time 1: measure_all_pos = 0000
+ Pattern 39 (basic_scan)
+ Time 0: force_all_pis =   0100110110 111
+ Time 1: measure_all_pos = 0000
+ Pattern 40 (basic_scan)
+ Time 0: force_all_pis =   0100111010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 41 (basic_scan)
+ Time 0: force_all_pis =   0100111101 011
+ Time 1: measure_all_pos = 0000
+ Pattern 42 (basic_scan)
+ Time 0: force_all_pis =   0100110110 111
+ Time 1: measure_all_pos = 0000
+ Pattern 43 (basic_scan)
+ Time 0: force_all_pis =   0100111010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 44 (basic_scan)
+ Time 0: force_all_pis =   0100111100 011
+ Time 1: measure_all_pos = 0000
+ Pattern 45 (basic_scan)
+ Time 0: force_all_pis =   0100111110 011
+ Time 1: measure_all_pos = 0000
+ Pattern 46 (basic_scan)
+ Time 0: force_all_pis =   0100111110 011
+ Time 1: measure_all_pos = 0000
+ Pattern 47 (basic_scan)
+ Time 0: force_all_pis =   0100111111 011
+ Time 1: measure_all_pos = 0000
+ Pattern 48 (basic_scan)
+ Time 0: force_all_pis =   0100111110 111
+ Time 1: measure_all_pos = 0000
+ Pattern 49 (basic_scan)
+ Time 0: force_all_pis =   0100110110 011
+ Time 1: measure_all_pos = 0000
+ Pattern 50 (basic_scan)
+ Time 0: force_all_pis =   0100110011 011
+ Time 1: measure_all_pos = 0000
+ Pattern 51 (basic_scan)
+ Time 0: force_all_pis =   0100110001 111
+ Time 1: measure_all_pos = 0000
+ Pattern 52 (basic_scan)
+ Time 0: force_all_pis =   0100110000 111
+ Time 1: measure_all_pos = 0000
+ Pattern 53 (basic_scan)
+ Time 0: force_all_pis =   0100110000 011
+ Time 1: measure_all_pos = 0000
+ Pattern 54 (basic_scan)
+ Time 0: force_all_pis =   0100111001 011
+ Time 1: measure_all_pos = 0000
+ Pattern 55 (basic_scan)
+ Time 0: force_all_pis =   0100110101 111
+ Time 1: measure_all_pos = 0000
+ Pattern 56 (basic_scan)
+ Time 0: force_all_pis =   0100110011 111
+ Time 1: measure_all_pos = 0000
+ Pattern 57 (basic_scan)
+ Time 0: force_all_pis =   0100111001 111
+ Time 1: measure_all_pos = 0000
+ Pattern 58 (basic_scan)
+ Time 0: force_all_pis =   0100111101 111
+ Time 1: measure_all_pos = 0000
+ Pattern 59 (basic_scan)
+ Time 0: force_all_pis =   0100110110 111
+ Time 1: measure_all_pos = 0000
+ Pattern 60 (basic_scan)
+ Time 0: force_all_pis =   0100110010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 61 (basic_scan)
+ Time 0: force_all_pis =   0100111001 011
+ Time 1: measure_all_pos = 0000
+ Pattern 62 (basic_scan)
+ Time 0: force_all_pis =   0100110100 111
+ Time 1: measure_all_pos = 0000
+ Pattern 63 (basic_scan)
+ Time 0: force_all_pis =   0100110010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 64 (basic_scan)
+ Time 0: force_all_pis =   0100110011 011
+ Time 1: measure_all_pos = 0000
+ Pattern 65 (basic_scan)
+ Time 0: force_all_pis =   0100111001 111
+ Time 1: measure_all_pos = 0000
+ Pattern 66 (basic_scan)
+ Time 0: force_all_pis =   0100110111 111
+ Time 1: measure_all_pos = 0000
+ Pattern 67 (basic_scan)
+ Time 0: force_all_pis =   0100111000 111
+ Time 1: measure_all_pos = 0000
+ Pattern 68 (basic_scan)
+ Time 0: force_all_pis =   0100111111 011
+ Time 1: measure_all_pos = 0000
+ Pattern 69 (basic_scan)
+ Time 0: force_all_pis =   0100111111 111
+ Time 1: measure_all_pos = 0000
+ Pattern 70 (basic_scan)
+ Time 0: force_all_pis =   0100110100 111
+ Time 1: measure_all_pos = 0000
+ Pattern 71 (basic_scan)
+ Time 0: force_all_pis =   0100110010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 72 (basic_scan)
+ Time 0: force_all_pis =   0100111010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 73 (basic_scan)
+ Time 0: force_all_pis =   0100111101 011
+ Time 1: measure_all_pos = 0000
+ Pattern 74 (basic_scan)
+ Time 0: force_all_pis =   0100110110 111
+ Time 1: measure_all_pos = 0000
+ Pattern 75 (basic_scan)
+ Time 0: force_all_pis =   0100110000 011
+ Time 1: measure_all_pos = 0000
+ Pattern 76 (basic_scan)
+ Time 0: force_all_pis =   0100111011 011
+ Time 1: measure_all_pos = 0000
+ Pattern 77 (basic_scan)
+ Time 0: force_all_pis =   0100110101 111
+ Time 1: measure_all_pos = 0000
+ Pattern 78 (basic_scan)
+ Time 0: force_all_pis =   0100111001 111
+ Time 1: measure_all_pos = 0000
+ Pattern 79 (basic_scan)
+ Time 0: force_all_pis =   0100111100 111
+ Time 1: measure_all_pos = 0000
+ Pattern 80 (basic_scan)
+ Time 0: force_all_pis =   0100110101 011
+ Time 1: measure_all_pos = 0000
+ Pattern 81 (basic_scan)
+ Time 0: force_all_pis =   0100111001 111
+ Time 1: measure_all_pos = 0000
+ Pattern 82 (basic_scan)
+ Time 0: force_all_pis =   0100111100 111
+ Time 1: measure_all_pos = 0000
+ Pattern 83 (basic_scan)
+ Time 0: force_all_pis =   0100110110 011
+ Time 1: measure_all_pos = 0000
+ Pattern 84 (basic_scan)
+ Time 0: force_all_pis =   0100111011 011
+ Time 1: measure_all_pos = 0000
+ Pattern 85 (basic_scan)
+ Time 0: force_all_pis =   0100111101 111
+ Time 1: measure_all_pos = 0000
+ Pattern 86 (basic_scan)
+ Time 0: force_all_pis =   0100110101 111
+ Time 1: measure_all_pos = 0000
+ Pattern 87 (basic_scan)
+ Time 0: force_all_pis =   0100111001 111
+ Time 1: measure_all_pos = 0000
+ Pattern 88 (basic_scan)
+ Time 0: force_all_pis =   0100111111 111
+ Time 1: measure_all_pos = 0000
+ Pattern 89 (basic_scan)
+ Time 0: force_all_pis =   0100111111 111
+ Time 1: measure_all_pos = 0000
+ Pattern 90 (basic_scan)
+ Time 0: force_all_pis =   0100110100 111
+ Time 1: measure_all_pos = 0000
+ Pattern 91 (basic_scan)
+ Time 0: force_all_pis =   0100110010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 92 (basic_scan)
+ Time 0: force_all_pis =   0100110010 011
+ Time 1: measure_all_pos = 0000
+ Pattern 93 (basic_scan)
+ Time 0: force_all_pis =   0100111001 011
+ Time 1: measure_all_pos = 0000
+ Pattern 94 (basic_scan)
+ Time 0: force_all_pis =   0100111100 111
+ Time 1: measure_all_pos = 0000
+ Pattern 95 (basic_scan)
+ Time 0: force_all_pis =   0100110110 011
+ Time 1: measure_all_pos = 0000
+ Pattern 96 (basic_scan)
+ Time 0: force_all_pis =   0100110000 111
+ Time 1: measure_all_pos = 0000
+ Pattern 97 (basic_scan)
+ Time 0: force_all_pis =   0100111000 011
+ Time 1: measure_all_pos = 0000
+ Pattern 98 (basic_scan)
+ Time 0: force_all_pis =   0100111100 111
+ Time 1: measure_all_pos = 0000
+ Pattern 99 (basic_scan)
+ Time 0: force_all_pis =   0100110110 111
+ Time 1: measure_all_pos = 0000

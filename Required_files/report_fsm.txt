@@ -1,0 +1,28 @@
+ 
+****************************************
+Report : FSM
+Design : aes_binary
+Version: J-2014.09-SP5-3
+Date   : Wed Aug 31 16:58:12 2016
+****************************************
+
+
+Clock             : Unspecified
+Asynchronous Reset: Unspecified
+
+Encoding Bit Length: 3
+Encoding style     : auto
+
+State Vector: { FSM_reg[2] FSM_reg[1] FSM_reg[0] }
+
+
+State Encodings and Order: 
+
+WAIT_KEY   : 001
+WAIT_DATA  : 010
+INITIAL_ROUND : 011
+DO_ROUND   : 100
+FINAL_ROUND : 000
+
+
+

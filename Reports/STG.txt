@@ -1,0 +1,44 @@
+ 
+  
+ next_state = 001 
+ Present_state =  
+ 000 
+ 001 
+ 010 
+ 011 
+ 100 
+ 101 
+ 110 
+ 111 
+  
+  
+  
+ next_state = 010 
+ Present_state =  
+ 000 
+ 001 
+ 010 
+  
+  
+  
+ next_state = 011 
+ Present_state =  
+ 010 
+  
+  
+  
+ next_state = 100 
+ Present_state =  
+ 011 
+ 100 
+  
+  
+  
+ next_state = 000 
+ Present_state =  
+ 100 
+ 101 
+ 110 
+ 111 
+  
+ 

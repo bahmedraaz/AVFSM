@@ -1,0 +1,9 @@
+Module_name:
+aes_binary
+Library_directory
+/home/UFAD/adib1991/Desktop/GSCLib_3.0/verilog/GSCLib_3.0.v
+File_directory
+/home/UFAD/adib1991/Desktop/HARPOON/AVFSM_AES
+protected_state
+000
+
